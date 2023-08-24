@@ -62,7 +62,7 @@
 
 ### :fire: Моя статистика:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melxiory&theme=github_dark)
+
 <div align="center">
   <span>![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melxiory&theme=github_dark)</span><span>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melxiory&theme=github_dark)</span>
 

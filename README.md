@@ -63,7 +63,6 @@
 ### :fire: Моя статистика:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melxiory&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melxiory&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melxiory&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=melxiory&theme=github_dark"/>

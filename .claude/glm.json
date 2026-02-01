@@ -1,9 +1,0 @@
-{
-  "env": {
-    "USE_BUILTIN_RIPGREP": "1",
-    "CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR": "1",
-    "CLAUDE_CODE_DISABLE_TERMINAL_TITLE": "0",
-    "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
-    "ANTHROPIC_AUTH_TOKEN": "38c823c5c6834dc486fb6a77c553836e.83Pn6YBGMKrMOOw5",
-  }
-}
